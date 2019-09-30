@@ -90,7 +90,7 @@ def draw_plot(values, lbx='xplot', lby='yplot'):
 try:
     link = sys.argv[1]
 except:
-    link = 'http://bobr.by'
+    link = 'https://yandex.by'
 
 statistics = {}
 counter = 0
